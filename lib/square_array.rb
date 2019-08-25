@@ -11,6 +11,6 @@ def square_array(array)
     results2.push(new_numbers[i] **2)
     i += 1 
   end
-  return results
+  return results, 
   return results2
 end
