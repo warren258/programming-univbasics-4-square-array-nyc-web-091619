@@ -9,7 +9,7 @@ def square_array(array)
   return results
 end
 
-def 
+def square_array(new_numbers)
   i = 0
   results2 = []
   new_numbers = [9,10,16,25]
