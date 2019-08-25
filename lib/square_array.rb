@@ -8,4 +8,5 @@ def square_array(array)
     counter += 1
     p results
   end
+  
 end
