@@ -13,6 +13,7 @@ end
 
 def 
   i = 0
+  
   new_numbers = [9,10,16,25]
   while i < new_numbers.length do 
     results2.push(new_numbers[i] **2)
