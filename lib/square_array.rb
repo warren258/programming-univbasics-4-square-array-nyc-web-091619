@@ -1,5 +1,6 @@
 def square_array(array)
   i = 0 
+  
   results = []
   while i < numbers.length do
     results << numbers[i] **2
