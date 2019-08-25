@@ -18,5 +18,5 @@ def
     results2.push(new_numbers[i] **2)
     i += 1 
   end
-  return (results), (results2)
+  return results2
 end
