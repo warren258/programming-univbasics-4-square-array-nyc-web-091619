@@ -8,6 +8,7 @@ def square_array(array)
     results.push(numbers[i] **2)
     i  += 1
   end
+  
   i = 0
   new_numbers = [9,10,16,25]
   while i < new_numbers.length do 
