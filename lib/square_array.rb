@@ -4,7 +4,7 @@ def square_array(array)
   results = []
   while i < numbers.length do
     results << numbers[i] **2
-    return results
+    p results
     counter += 1 
   end
 end
